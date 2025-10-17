@@ -1,0 +1,22 @@
+#box{
+    color: white;
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: aqua;
+}
+
+#boxes{
+    color: white;
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+    background-color: aqua;
+}
+
+.content{
+    color: aqua;
+}
+.newClass{
+     background-color: blue;
+}
